@@ -4,9 +4,13 @@
 * Search and filter domain by address
 * Track domain lifecycle events like DomainRegistered, DomainRenewed, DomainTransferred for a ENS domain.
 
+## Detailed Life cycle Table of All ENS Domains
 ![ENS Domain Lifecycle](https://github.com/stevepro-lab/ens-domain-lifecycle-dashboard/blob/main/src/resources/screen1.png)
 
+## Search Any ENS Domain
 ![Select Domain](https://github.com/stevepro-lab/ens-domain-lifecycle-dashboard/blob/main/src/resources/screen2.png)
+
+## View LifeCycle Of One Domain
 ![Life Cycle of One Domain](https://github.com/stevepro-lab/ens-domain-lifecycle-dashboard/blob/main/src/resources/screen3.png)
 
 You can view dashboard from here: [ENS dashboard](http://analytics.dappquery.com/public/dashboard/8d66f6ab-e0c5-475b-b220-bc5a07d9e576)
