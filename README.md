@@ -3,6 +3,8 @@
 * Search and filter domain by name.
 * Search and filter domain by address
 * Track domain lifecycle events like DomainRegistered, DomainRenewed, DomainTransferred for a ENS domain.
+* Funnel analytics for domain owners. Track whales and mini whales who own many domain.
+* Track new domain registrations and new domain expiring with trend charts.
 
 ## Detailed Life cycle Table of All ENS Domains
 ![ENS Domain Lifecycle](https://github.com/stevepro-lab/ens-domain-lifecycle-dashboard/blob/main/src/resources/screen1.png)
@@ -22,6 +24,7 @@ Entities Fetched:
 * RegistrationEvent
 * Registration
 * Domain
+* DomainEvent
 * NameRegistered
 * NameRenewed
 * NameTransferred
@@ -34,6 +37,7 @@ Subgraph data is tranformed to SQL tables for efficient join query.
     * registration_events
     * registrations
     * domains
+    * domain_events
     * name_registereds
     * name_reneweds
     * name_transferreds
