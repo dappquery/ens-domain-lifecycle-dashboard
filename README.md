@@ -7,7 +7,7 @@
 * Track new domain registrations and new domain expiring with trend charts.
 
 ## Detailed Life cycle Table of All ENS Domains
-![ENS Domain Lifecycle](https://github.com/stevepro-lab/ens-domain-lifecycle-dashboard/blob/main/src/resources/screen1.png)
+![ENS Domain Lifecycle](https://github.com/stevepro-lab/ens-domain-lifecycle-dashboard/blob/main/src/resources/screen6.png)
 
 ## Funnel Chart to show Ownership of Domains
 ![Funnel Chart](https://github.com/stevepro-lab/ens-domain-lifecycle-dashboard/blob/main/src/resources/screen2.png)
@@ -19,7 +19,7 @@
 ![Select Domain](https://github.com/stevepro-lab/ens-domain-lifecycle-dashboard/blob/main/src/resources/screen5.png)
 
 ## View LifeCycle Of One Domain
-![Life Cycle of One Domain](https://github.com/stevepro-lab/ens-domain-lifecycle-dashboard/blob/main/src/resources/screen4.png)
+![Life Cycle of One Domain](https://github.com/stevepro-lab/ens-domain-lifecycle-dashboard/blob/main/src/resources/screen7.png)
 
 ## You can view dashboard from here: [ENS dashboard](http://analytics.dappquery.com/public/dashboard/8d66f6ab-e0c5-475b-b220-bc5a07d9e576)
 
