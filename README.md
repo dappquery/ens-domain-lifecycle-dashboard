@@ -11,11 +11,15 @@
 
 ## Funnel Chart to show Ownership of Domains
 ![Funnel Chart](https://github.com/stevepro-lab/ens-domain-lifecycle-dashboard/blob/main/src/resources/screen2.png)
+
+## Trends for Domain Registration and Expiry
+![Trends](https://github.com/stevepro-lab/ens-domain-lifecycle-dashboard/blob/main/src/resources/screen3.png)
+
 ## Search Any ENS Domain
 ![Select Domain](https://github.com/stevepro-lab/ens-domain-lifecycle-dashboard/blob/main/src/resources/screen2.png)
 
 ## View LifeCycle Of One Domain
-![Life Cycle of One Domain](https://github.com/stevepro-lab/ens-domain-lifecycle-dashboard/blob/main/src/resources/screen4.png)
+![Life Cycle of One Domain](https://github.com/stevepro-lab/ens-domain-lifecycle-dashboard/blob/main/src/resources/screen5.png)
 
 ## You can view dashboard from here: [ENS dashboard](http://analytics.dappquery.com/public/dashboard/8d66f6ab-e0c5-475b-b220-bc5a07d9e576)
 
